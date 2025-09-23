@@ -139,7 +139,7 @@
 ---
 
 ## Reproducibility
-- **Code Repository**: [Add your GitHub repo link here, e.g., https://github.com/your-repo/predictive-maintenance].
+- **Code Repository**: [https://github.com/0luwa-Pelumi/PredictiveMaintenance-AI4I2020.git].
 - **Random Seed**: 12 (set in model and splits).
 - **Environment Setup**:
   ```bash
