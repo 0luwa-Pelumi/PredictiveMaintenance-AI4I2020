@@ -143,7 +143,7 @@ Try the interactive demo live: [https://predictive-maintenance-ai4i2020.streamli
 Input machine stats and get instant "Healthy" vs. "Faulty" predictions!
 ---
 ## Reproducibility
-- **Code Repository**:[link](https://github.com/0luwa-Pelumi/PredictiveMaintenance-AI4I2020.git)
+- **Code Repository**: [link](https://github.com/0luwa-Pelumi/PredictiveMaintenance-AI4I2020.git)
 - **Random Seed**: 12 (set in model and splits).
 - **Environment Setup**:
   ```bash
@@ -154,7 +154,7 @@ Input machine stats and get instant "Healthy" vs. "Faulty" predictions!
 - **Run Instructions**: Download dataset from UCI, place at path in notebooks, execute cells sequentially in ai4i2020Model1.ipynb and 
 ---
 ## Access the Hosted App
-Try the interactive demo live: [https://predictive-maintenance-ai4i2020.streamlit.app/](https://predictive-maintenance-ai4i2020.streamlit.app/)
+Try the interactive demo live: [Link](https://predictive-maintenance-ai4i2020.streamlit.app/)
 
 Input machine stats and get instant "Healthy" vs. "Faulty" predictions!
 ---
