@@ -134,12 +134,16 @@
 
 **Saved Files**:
 - Model 1: ai4i2020_rfc_M1.pkl (includes model, feature_order, feature_types).
-- Model 2: ai4i2020_rfc_M2.plk (same).
+- Model 2: ai4i2020_rfc_M2.pkl (same).
 
 ---
+## Access the Hosted App
+Try the interactive demo live: [https://predictive-maintenance-ai4i2020.streamlit.app/](https://predictive-maintenance-ai4i2020.streamlit.app/)
 
+Input machine stats and get instant "Healthy" vs. "Faulty" predictions!
+---
 ## Reproducibility
-- **Code Repository**: [https://github.com/0luwa-Pelumi/PredictiveMaintenance-AI4I2020.git].
+- **Code Repository**:[link](https://github.com/0luwa-Pelumi/PredictiveMaintenance-AI4I2020.git)
 - **Random Seed**: 12 (set in model and splits).
 - **Environment Setup**:
   ```bash
@@ -147,8 +151,12 @@
   conda activate pred_maint
   pip install scikit-learn pandas numpy imbalanced-learn joblib matplotlib seaborn
   ```
-- **Run Instructions**: Download dataset from UCI, place at path in notebooks, execute cells sequentially in ai4i2020Model1.ipynb and Ai4i2020Model2.ipynb.
+- **Run Instructions**: Download dataset from UCI, place at path in notebooks, execute cells sequentially in ai4i2020Model1.ipynb and 
+---
+## Access the Hosted App
+Try the interactive demo live: [https://predictive-maintenance-ai4i2020.streamlit.app/](https://predictive-maintenance-ai4i2020.streamlit.app/)
 
+Input machine stats and get instant "Healthy" vs. "Faulty" predictions!
 ---
 
 ## Future Improvements
